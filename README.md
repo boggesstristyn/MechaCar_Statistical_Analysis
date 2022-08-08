@@ -1,20 +1,22 @@
 # MechaCar_Statistical_Analysis
 
-Linear Regression
+## Overview
+
+Using R and RScript, statistical analysis was performed on AutosRUs production datasets. AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. AutosRUs’ upper management would like a review of the production data for insights that may help the manufacturing team.
+
+## Linear Regression to Predict MPG
 
 <img width="680" alt="linear regression" src="https://user-images.githubusercontent.com/103851131/183259149-cc116365-6b6d-4b13-81ea-3dd37ba48698.png">
 
 <img width="680" alt="summary linear regression" src="https://user-images.githubusercontent.com/103851131/183259152-982f1278-b374-4de6-9bb6-2c56c5072d85.png">
 
-
-Suspension Coil
+Summary Statistics on Suspension Coils
 
 <img width="334" alt="Screen Shot 2022-08-06 at 10 43 17" src="https://user-images.githubusercontent.com/103851131/183260052-e6447ede-885c-4b75-9710-b90e686291d2.png">
 
 <img width="489" alt="Screen Shot 2022-08-06 at 10 43 05" src="https://user-images.githubusercontent.com/103851131/183260059-084e36df-cde6-44cc-8f93-59549ba33569.png">
 
-
-T.tests
+## T-Test on Suspension Coils
 
 <img width="674" alt="t test 1 2" src="https://user-images.githubusercontent.com/103851131/183260802-889156a2-4e9f-41ca-b4a0-541130b21811.png">
 
